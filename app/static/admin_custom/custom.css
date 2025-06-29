@@ -1,0 +1,91 @@
+.button,
+.submit-row input {
+    background-color: #B08647;
+    border-color: #B08647;
+    color: white;
+}
+
+
+#header {
+    background-color: #ffb937 !important;
+    background-image: url("/static/admin_custom/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 130px 50px;
+    padding-left: 60px;
+    /* spacing for logo */
+}
+
+/* Admin heading (content title) color to black */
+#content h1,
+#content h1:only-child {
+    color: black !important;
+}
+
+
+#site-name a {
+    color: rgb(0, 0, 0) !important;
+    font-size: 30px !important;
+}
+
+#user-tool a {
+    color: black !important;
+}
+
+svg.theme-icon-when-light {
+    color: #ffb937 !important;
+    margin-left: 200px;
+}
+
+svg.theme-icon-when-dark {
+    color: #ffb937 !important;
+}
+
+svg.theme-icon-when-auto {
+    color: #ffb937 !important;
+}
+
+.module h2,
+.module caption,
+.inline-group h2 {
+    background: #ffc14f !important;
+}
+
+
+div.breadcrumbs {
+    background: #ffd992 !important;
+
+}
+
+#header {
+    color: black;
+}
+
+#header a:link,
+#header a:visited,
+#logout-form button {
+    color: black;
+}
+
+
+div.breadcrumbs a {
+    color: black;
+}
+
+div.breadcrumbs {
+    color: black;
+}
+
+a.section:link,
+a.section:visited {
+    color: black;
+}
+
+#nav-sidebar .current-app .section:link,
+#nav-sidebar .current-app .section:visited {
+    color: black;
+}
+
+div.breadcrumbs a:hover {
+    color: rgb(55, 55, 55);
+}
